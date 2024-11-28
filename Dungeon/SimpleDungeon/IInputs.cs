@@ -8,5 +8,17 @@ namespace SimpleDungeon
 {
     internal interface IInputs
     {
+        //Position position { get; }
+        
+
+        //public void ReadMap()
+        //{
+
+        //}
+        //public void ReadRoom()
+        //{
+
+        //}
+
     }
 }

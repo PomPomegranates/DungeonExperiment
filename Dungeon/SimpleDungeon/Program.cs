@@ -4,7 +4,17 @@
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello, World!");
+            bool continuous = true;
+            while (continuous)
+            {
+                var input = Console.ReadKey();
+                switch (input.Key)
+                {
+                    case ConsoleKey.UpArrow:
+                        MoveUp()
+                }
+            }
         }
+
     }
 }

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SimpleDungeon")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7940bf15d6bc0ee1557b6e0140cea6c440fcb1ea")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+566e0db5753ef5cd7d2ae7184b5a65ee0d2f9c38")]
 [assembly: System.Reflection.AssemblyProductAttribute("SimpleDungeon")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SimpleDungeon")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
