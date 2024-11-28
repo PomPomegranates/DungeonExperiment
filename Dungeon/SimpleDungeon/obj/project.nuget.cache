@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "WmVnZtVHtU0=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\perse\\Documents\\PersonalProjects\\DungeonExperiment\\Dungeon\\SimpleDungeon\\SimpleDungeon.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\perse\\.nuget\\packages\\fluentassertions\\6.12.2\\fluentassertions.6.12.2.nupkg.sha512",
+    "C:\\Users\\perse\\.nuget\\packages\\nunit\\4.2.2\\nunit.4.2.2.nupkg.sha512",
+    "C:\\Users\\perse\\.nuget\\packages\\system.configuration.configurationmanager\\4.4.0\\system.configuration.configurationmanager.4.4.0.nupkg.sha512",
+    "C:\\Users\\perse\\.nuget\\packages\\system.security.cryptography.protecteddata\\4.4.0\\system.security.cryptography.protecteddata.4.4.0.nupkg.sha512"
+  ],
+  "logs": []
+}
